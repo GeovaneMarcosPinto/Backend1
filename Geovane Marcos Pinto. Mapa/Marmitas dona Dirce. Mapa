@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Marmitas Dona Dirce</title>
+        <link rel="stylesheet" type="text/css" href="estilo.css">
+    </head>
+    <body>
+        <div style="background-color: orange; color: black; padding: 7px; border-radius: 2px;">
+            <img style="display: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/Logotipo.png" width="70" hight="50">
+        <h1>Marmitas</h1>
+        <p>DONA DIRCE</p>
+    <tfoot>
+        <tr>
+            <td><button style="background-color: orange; color: orangered; border-bottom-color: orange;">Home</button></td>
+            <td><button style="background-color: orange; color: orangered; border-bottom-color: orange;">Blog</button></td>
+            <td><button style="background-color: orange; color: orangered; border-bottom-color: orange;">Conheça a Dona Dirce</button></td>
+            <td><button style="background-color: orange; color: orangered; border-bottom-color: orange;">contato</button></td>
+        </tr>
+    </tfoot>
+        </div>
+        <img style="display: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/imagem%20principal.jpg" width="1887" height="500">
+        <div style="background-color: white; text-align: center;">
+        <h1>venha para a casa da Dona Dirce, e escolha a sua <br> marmita!!!.</h1>
+        </div>
+        <div style="background-color: white;"><p style="background-color: white; text-align: center;">Impossível não voltar novamente</p></div>
+        <div style="background-color: white; color: orange; text-align: center;"><button style="background-color: orange; color: white;">Saiba Mais</button></div>
+        <h2>Confira nossas marmitas</h2>
+        <p>aqui voçê encontra o nosso cardápio das marmitas</p>
+        <table>
+            <tr>
+                <td><img style="display: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/Marmita%20vegana.webp" width="450" height="250">
+                    <p>Spaguetti ao Posto com Tomates <br> assados (Vegano)</p>
+        <button>Ver mais</button></td>
+            <br>
+                <td><img style="dislay: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/Marmita%20saudavel.jpg" width="450" height="250">
+                    <p>Marmita Saudável</p>
+        <button>Ver mais</button></td>
+            <br>
+                <td><img style="display: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/Marmita%20Caseira.jpg" width="450" height="250">
+                    <p>Marmita Caseira</p>
+        <button>Ver mais</button></td>
+            <br>
+                <td><img style="display: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/Marmita%20vegana.webp" width="450" height="250">
+                    <p>Spaguetti ao Posto com Tomates <br> assados (Vegano)</p>
+        <button>Ver mais</button></td>
+            </tr>
+            <tr>
+                <td><img style="dislay: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/Marmita%20saudavel.jpg" width="450" height="250">
+                    <p>Marmita Saudável</p>
+        <button>Ver mais</button></td>
+                <br>
+                <td><img style="display: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/Marmita%20Caseira.jpg" width="450" height="250">
+                    <p>Marmita Caseira</p>
+        <button>Ver mais</button></td>
+                <br>
+                <td><img style="dislay: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/Marmita%20saudavel.jpg" width="450" height="250">
+                    <p>Marmita Saudável</p>
+        <button>Ver mais</button></td>
+                <br>
+                <td><img style="display: block;-webkit-user-select: none;" src="file:///C:/Users/carol/OneDrive/%C3%81rea%20de%20Trabalho/Progrma%C3%A7%C3%A3o%20BACK%20END%20I/Material%20para%20a%20atividade%20mapa,%20de%20back%20end%20I/Marmita%20Caseira.jpg" width="450" height="250">
+                    <p>Marmita Caseira</p>
+        <button>Ver mais</button></td>
+            </tr>
+        </table>
+        <?php
+            
+        ?>
+    </body>
+    <br>
+    <div style="background-color: orange; color: black; padding: 7px; border-radius: 7px;">
+    <h2>Quer saber mais?</h2>
+    <h3>Nossas Páginas</h3>
+    <dl>
+        <dd><button style="background-color: orange; color: black; border-bottom-color: orange;">Home</button></dd>
+        <dd><button style="background-color: orange; color: black; border-bottom-color: orange;">Blog</button></dd>
+        <dd><button style="background-color: orange; color: black; border-bottom-color: orange;">Conheça a Dona Dirce</button></dd>
+        <dd><button style="background-color: orange; color: black; border-bottom-color: orange;">Contato</button></dd>
+    </dl>
+    <h3>Links Úteis</h3>
+        <dl>
+        <dd><button style="background-color: orange; color: black; border-bottom-color: orange;">Poçítica de Privacidade</button></dd>
+        <dd><button style="background-color: orange; color: black; border-bottom-color: orange;">Aviso Legal</button></dd>
+        <dd><button style="background-color: orange; color: black; border-bottom-color: orange;">Termos de Uso</button></dd>
+        </dl>
+    <h3>Sobre o Projeto</h3>
+        <dl>
+        <dd><button style="background-color: orange; color: black; border-bottom-color: orange;">Projeto de Divulgação das Marmitas da Dona Rita</button></dd>
+        </dl>
+    </div>
+    <br/>
+    <div style="background-color: orange; color: black; padding: 2px; border-radius: 2px">
+        <footer><p align="center">Geovane Marcos Pitno Ra:1943288-5</p></footer>
+    </div>
+</html>
